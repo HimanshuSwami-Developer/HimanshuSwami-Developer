@@ -126,16 +126,16 @@ Interactive document visualization & content exploration tool. **45%** boost in 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=himanshuswami2810&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuswami2810&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HimanshuSwami-Developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuSwami-Developer&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuswami2810&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuSwami-Developer&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshuswami2810&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HimanshuSwami-Developer&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -143,7 +143,7 @@ Interactive document visualization & content exploration tool. **45%** boost in 
 ### 🐍 Live Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/himanshuswami2810/himanshuswami2810/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/HimanshuSwami-Developer/HimanshuSwami-Developer/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 <details>
